@@ -6,7 +6,7 @@ It is a clone of [@holman's feedback repo](https://github.com/holman/feedback) a
 
 ##Ask a Question
 
-To get started you can either [create a new issue](issues/new) or [peruse existings issues](issues/). Issues that are closed have been answered but by no means does that indicate the discussion is over! I'll do my best to answer questions in a timely fashion.
+To get started you can either [create a new issue](https://github.com/neogeek/feedback/issues/new) or [peruse existings issues](https://github.com/neogeek/feedback/issues). Issues that are closed have been answered but by no means does that indicate the discussion is over! I'll do my best to answer questions in a timely fashion.
 
 ##Twitter
 
